@@ -5,6 +5,7 @@ In diesem Repository sind alle Skripte, die ich aktuell in meinem Projekt [FTB S
 Wenn du eins der Skripte selbst verwenden möchtest, stelle den Aufbau der Bilder in deiner Welt nach und nutze den Command `pastebin get {id} startup` und ersetze `{id}` durch einen der Pastebin-Codes weiter unten!
 
 Wichtig: FTB Skyblock wird in der Minecraft-Version `1.7.10` gespielt. In anderen Versionen könnten die Skripte nicht funktionieren!
+Zum Kopieren nach Minecraft kannst du auch mein Tool aus Jahre 2013 nutzen: [C3P-Download](http://www.mediafire.com/file/d8k3t9d1h9chs0s/C3P-1.0.2.2.zip/file)
 
 ## Portal
 **[Pastebin](https://pastebin.com/3DhtLbmF)-ID: `3DhtLbmF`**
