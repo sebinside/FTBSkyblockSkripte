@@ -5,6 +5,7 @@ In diesem Repository sind alle Skripte, die ich aktuell in meinem Projekt [FTB S
 Wenn du eins der Skripte selbst verwenden möchtest, stelle den Aufbau der Bilder in deiner Welt nach und nutze den Command `pastebin get {id} startup` und ersetze `{id}` durch einen der Pastebin-Codes weiter unten!
 
 Wichtig: FTB Skyblock wird in der Minecraft-Version `1.7.10` gespielt. In anderen Versionen könnten die Skripte nicht funktionieren!
+Zum Kopieren nach Minecraft kannst du auch mein Tool aus Jahre 2013 nutzen: [C3P-Download](http://www.mediafire.com/file/d8k3t9d1h9chs0s/C3P-1.0.2.2.zip/file)
 
 ## Portal
 **[Pastebin](https://pastebin.com/3DhtLbmF)-ID: `3DhtLbmF`**
@@ -27,3 +28,16 @@ Dieses Skript dient zum Autocrafting mit Blood Magic. Eine Turtle überwacht den
 Video zum Skript: [FTB Skyblock Folge 207](https://youtu.be/JVBjpzzMEmo)
 
 ![Blood Magic](img/bloodmagic.png)
+
+## Essentia
+**[Pastebin](https://pastebin.com/0fNq0Rj9)-ID: `uCzuziUt` & `THhWPmBk`**
+
+*Befehl: `pastebin get uCzuziUt essentia`* und `pastebin get THhWPmBk start`
+
+Dieses Skript fragt über den benachbarten Essentia-Provider ab, von welcher Essenz zu wenig im ME-System ist (weniger als der Grenzwert, z.b. 2048). Wenn ein Defizit von Essenzen erkannt wird, wird automatisch etwas *Etheral essence* mittels des benachbarten ME-Interfaces in eine Kiste exportiert (siehe Aufbau). Eine ausreichend performante Wisp-Farm wird vorausgesetzt. Da dieses Skript manchmal aus bisher unbekannten Gründen mit einer Java-Exception abstürzt, kann das zweite Skript `essentia-start` genutzt werden, um den Vorgang von vorne zu starten.
+
+PS: Violette Turtle Namen bekommt man mit dem Befehl: `os.setComputerLabel(string.char(194,167) .. "5turtlename")`
+
+Video zum Skript: [FTB Skyblock Folge 286](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+![Blood Magic](img/essentia.png)
