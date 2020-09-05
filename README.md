@@ -34,10 +34,10 @@ Video zum Skript: [FTB Skyblock Folge 207](https://youtu.be/JVBjpzzMEmo)
 
 *Befehl: `pastebin get uCzuziUt essentia`* und `pastebin get THhWPmBk start`
 
-Dieses Skript fragt über den benachbarten Essentia-Provider ab, von welcher Essenz zu wenig im ME-System ist (weniger als der Grenzwert, z.b. 2048). Wenn ein Defizit von Essenzen erkannt wird, wird automatisch etwas *Etheral essence* mittels des benachbarten ME-Interfaces in eine Kiste exportiert (siehe Aufbau). Eine ausreichend performante Wisp-Farm wird vorausgesetzt. Da dieses Skript manchmal aus bisher unbekannten Gründen mit einer Java-Exception abstürzt, kann das zweite Skript `essentia-start` genutzt werden, um den Vorgang von vorne zu starten.
+Dieses Skript fragt über den benachbarten Essentia-Provider ab, von welcher Essenz zu wenig im ME-System ist (weniger als der Grenzwert, z.b. 2048). Wenn ein Defizit von Essenzen erkannt wird, wird automatisch etwas *Ethereal essence* mittels des benachbarten ME-Interfaces in eine Kiste exportiert (siehe Aufbau). Eine ausreichend performante Wisp-Farm wird vorausgesetzt. Da dieses Skript manchmal aus bisher unbekannten Gründen mit einer Java-Exception abstürzt, kann das zweite Skript `essentia-start` genutzt werden, um den Vorgang von vorne zu starten.
 
 PS: Violette Turtle Namen bekommt man mit dem Befehl: `os.setComputerLabel(string.char(194,167) .. "5turtlename")`
 
 Video zum Skript: [FTB Skyblock Folge 286](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Blood Magic](img/essentia.png)
+![Essentia](img/essentia.png)
