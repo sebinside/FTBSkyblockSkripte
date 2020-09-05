@@ -40,4 +40,4 @@ PS: Violette Turtle Namen bekommt man mit dem Befehl: `os.setComputerLabel(strin
 
 Video zum Skript: [FTB Skyblock Folge 286](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Blood Magic](img/essentia.png)
+![Essentia](img/essentia.png)
