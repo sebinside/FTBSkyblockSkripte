@@ -38,6 +38,6 @@ Dieses Skript fragt über den benachbarten Essentia-Provider ab, von welcher Ess
 
 PS: Violette Turtle Namen bekommt man mit dem Befehl: `os.setComputerLabel(string.char(194,167) .. "5turtlename")`
 
-Video zum Skript: [FTB Skyblock Folge 286](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Video zum Skript: [FTB Skyblock Folge 285](https://www.youtube.com/watch?v=EVEgyugdLgU)
 
 ![Essentia](img/essentia.png)
