@@ -40,6 +40,6 @@ Please be aware that this script can also crash a server sometimes. Use in moder
 
 PS: violete Turtle names can be achieved by using: `os.setComputerLabel(string.char(194,167) .. "5<turtlename>")`
 
-Video explaining the script (in German): [FTB Skyblock Folge 286](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Video explaining the script (in German): [FTB Skyblock Folge 286](https://www.youtube.com/watch?v=EVEgyugdLgU)
 
 ![Essentia](../img/essentia.png)

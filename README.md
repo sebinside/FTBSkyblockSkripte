@@ -42,6 +42,6 @@ Vorsicht: Dieses Skript kann den Server durch Blockupdates zum Absturz bringen! 
 
 PS: Violette Turtle Namen bekommt man mit dem Befehl: `os.setComputerLabel(string.char(194,167) .. "5turtlename")`
 
-Video zum Skript: [FTB Skyblock Folge 286](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Video zum Skript: [FTB Skyblock Folge 286](https://www.youtube.com/watch?v=EVEgyugdLgU)
 
 ![Essentia](img/essentia.png)
